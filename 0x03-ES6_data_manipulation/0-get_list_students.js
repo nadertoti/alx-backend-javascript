@@ -1,6 +1,6 @@
 /**
  * Return alist of students
- * @author nader eltayeb <https://gethub.com/nadertoti>
+ * @author nader eltayeb <https://github.com/nadertoti>
  */
 export default function getListStudents() {
     return [
