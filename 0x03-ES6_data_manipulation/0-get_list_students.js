@@ -1,6 +1,7 @@
 /**
  * Return alist of students
  * @author nader eltayeb <https://github.com/nadertoti>
+ * @returns {{id: Number, firstName: String, location: String}[]}
  */
 export default function getListStudents() {
     return [
